@@ -45,23 +45,9 @@ To manage infrastructure, simulate designs, and write our custom integration scr
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial" alt="Krishna Enterprises Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radial" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Enterprises-It&show_icons=true&theme=radial" alt="Krishna Enterprises Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-Enterprises-It&theme=radial" alt="GitHub Streak" width="400"/>
 </p>
-
----
-
-## 📂 Featured Repositories / Open Source Tools
-
-Here are some of our utility scripts and configuration baselines to help the community deploy smarter infrastructure:
-
-### 🔹 [CCTV-Stream-Monitor](https://github.com/your-org/cctv-stream-monitor)
-A lightweight Python script to monitor IP camera health and send automated downtime alerts via Telegram/Email.
-> **Tech Stack:** Python, OpenCV, RTSP.
-
-### 🔹 [Network-Config-Baselines](https://github.com/your-org/network-config-baselines)
-Our hardened, secure network configuration templates for enterprise routers and switches.
-> **Tech Stack:** Ansible, Cisco IOS, YAML.
 
 ---
 
@@ -69,9 +55,9 @@ Our hardened, secure network configuration templates for enterprise routers and 
 
 Are you an architect, builder, project manager, or IT administrator? We love collaborating on turnkey projects!
 
-* 🌐 **Website:** [www.krishnaenterprises.com](https://www.krishnaenterprises.com) *(Replace with actual URL)*
-* 📧 **Business Inquiries:** sales@krishnaenterprises.com
-* 📍 **Headquarters:** [Your City, India]
+* 🌐 **Website:** [www.krishnaenterprises.com](https://www.krishnaenterprises.in)
+* 📧 **Business Inquiries:** aditya@krishnas-enterprises.in
+* 📍 **Headquarters:** [Delhi, India]
 
 ---
 
@@ -79,9 +65,9 @@ Are you an architect, builder, project manager, or IT administrator? We love col
 
 Follow our project updates, site completions, and tech insights:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/krishna-enterprises)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/krishna_enterprises)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@krishnaenterprises.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](nil)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](nil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya@krishnas-enterprises.in)
 
 ---
 
