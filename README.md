@@ -45,8 +45,7 @@ To manage infrastructure, simulate designs, and write our custom integration scr
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Enterprises-It&show_icons=true&theme=radial" alt="Krishna Enterprises Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-Enterprises-It&theme=radial" alt="GitHub Streak" width="400"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna-Enterprises-It&theme=radial" alt="GitHub Streak" width="400"/>
 </p>
 
 ---
